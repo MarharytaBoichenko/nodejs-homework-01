@@ -1,4 +1,4 @@
-const contactsOperations = require("./contacts");
+const contactsOperations = require("./controllers/contacts");
 
 // contactsOperations.listContacts();
 // contactsOperations.getContactById("1");
